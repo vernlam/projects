@@ -6,7 +6,7 @@ layout: default
 
 Advertisements and communications have varying levels of effectiveness on customers. I explore the use of uplift modelling to measure this level by each individual customer, optimising spend through selective targetting.
 
-[[Link to another page](./another-page.html](https://github.com/vernlam/portfolio/blob/uplift/Uplift/Uplift.ipynb)).
+[View code on github](/another-page.html](https://github.com/vernlam/portfolio/blob/uplift/Uplift/Uplift.ipynb))
 
 There should be whitespace between paragraphs.
 
