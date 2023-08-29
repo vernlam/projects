@@ -12,6 +12,8 @@ Advertisements and communications have varying levels of effectiveness on custom
 
 In this project, I use Geopandas, pandas and Numpy to explore speed camera usage in the Australian Capital Territory.
 
+<img src= "assets/img/Canberra-speed.png"/>
+
 [Link to code on github](/another-page.html](https://github.com/vernlam/portfolio/blob/speedcamera/SpeedCamera/project.ipynb))
 # Header 1
 
