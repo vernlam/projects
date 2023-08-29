@@ -6,12 +6,13 @@ layout: default
 
 Advertisements and communications have varying levels of effectiveness on customers. I explore the use of uplift modelling to measure this level by each individual customer, optimising spend through selective targetting.
 
-[View code on github](/another-page.html](https://github.com/vernlam/portfolio/blob/uplift/Uplift/Uplift.ipynb))
+[Link to code github](/another-page.html](https://github.com/vernlam/portfolio/blob/uplift/Uplift/Uplift.ipynb))
 
-There should be whitespace between paragraphs.
+### Descriptive analysis on speed camera usage in Canberra
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+In this project, I use Geopandas, pandas and Numpy to explore speed camera usage in the Australian Capital Territory.
 
+[Link to code on github](/another-page.html](https://github.com/vernlam/portfolio/blob/speedcamera/SpeedCamera/project.ipynb))
 # Header 1
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
